@@ -22,6 +22,7 @@ This repository aims to showcases my projects and tracks my growth as a data ana
 - [Contact](#contact)
 
 ## Portfolio Projects
+In this section, I will list and briefly describe my data analytics projects.
 
 | Project Link | Tools | Description | Format |
 | --- | --- | --- | --- |
