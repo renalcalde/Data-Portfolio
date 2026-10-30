@@ -35,6 +35,6 @@ In this section, I will list and briefly describe my data analytics projects.
 University of California, Davis: Bachelor in Science, Cognitive Science (w/ a Computational Emphasis) and a minor in Psychology
 
 ## Contact
-- Linkedin: [@renalcalde](www.linkedin.com/in/renalcalde)
-- Tableau: [@ren.alcalde](https://public.tableau.com/app/profile/ren.alcalde/vizzes)
+- [Linkedin](https://www.linkedin.com/in/renalcalde/)
+- [Tableau](https://public.tableau.com/app/profile/ren.alcalde/vizzes)
 - Email: aalcalderen@gmail.com
