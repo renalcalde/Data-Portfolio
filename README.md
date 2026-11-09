@@ -13,6 +13,7 @@ This repository aims to showcases my projects and tracks my growth as a data ana
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
   - SQL:
+    - [8 Week SQL Challenge](#8-week-sql-challenge)
     - [California Outreach Spending](#california-outreach-spending)
     - [Sales Performance Channel](#sales-performance-channel)
     - [Student Health Dashboard](#student-health-dashboard)
